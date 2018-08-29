@@ -232,3 +232,7 @@ body {
 #ad {
 	text-align: center;
 }
+
+table.table > thead > tr > th, table.table > tbody > tr > td{
+  padding: 4px;
+}
